@@ -1,3 +1,3 @@
 # amazon-webscrapping
 
-fetching data from amazon and making your stuff alert prices 
+Fetching data from amazon and sending alert prices 
